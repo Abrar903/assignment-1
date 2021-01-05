@@ -1,0 +1,92 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1{
+    font-size: 50px;
+}
+
+.blue-highlight{
+    color: blueviolet;
+}
+
+.half-width{
+    float: left;
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.top-banner{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+section{
+    height: 550px;
+    padding-bottom: 5px;
+}
+
+.button-one{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 700;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+}
+
+h2{
+    font-size: 40px;
+}
+
+.dream-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.hedding{
+    clear: both;
+    text-align: center;
+}
+
+.single-experience{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 5px;
+    height: 50%;
+    width: 33%;
+    margin-left: 90px;
+    float: left;
+    padding: 20px;
+    background-color: white;
+}
+
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#beginner-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+#student-nine{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+    font-size: 12px;
+    background-color: #b5e1e2;
+}
