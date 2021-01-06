@@ -98,13 +98,12 @@ h2{
 .box{
     width: 800px;
     height: 300px;
-    margin: 10px 30px;
+    margin: 40px 40px;
     align-items: center;
     text-align: center;
     border-radius: 20px;
     padding-left: 50px;
     box-shadow: 20px 20px 40px gray;
-    padding-left: 100px;
     flex: left;
 }
     
@@ -124,10 +123,7 @@ h2{
     background: linear-gradient(45deg, lightsalmon, tomato);
 }
 
-.hedding-3{
-    background-image: url("images-assignment-1/Group_33094_1.png");
-    height: 250px;
-}
+
 
 .hedding-001{
     text-align: center;
@@ -138,4 +134,32 @@ h2{
 .hedding-01{
     text-align: center;
     color: #000;
+}
+
+.icons{
+   display: inline block;
+   text-align: center;
+}
+
+#portfolio{
+    color: #fff;
+}
+
+.starter{
+    background-color: #f13b78;
+    color: blueviolet;
+    text-align: left;
+    border-radius: 5px;
+}
+
+#dott{
+color: gold;
+}
+
+#footer{
+    text-align: center;
+}
+
+.section--{
+    padding-bottom: 1px;
 }
